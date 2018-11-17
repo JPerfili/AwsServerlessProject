@@ -1,13 +1,11 @@
 {
-    "Asset":[
-        {"uniqueIdentifier":"",
-        "assetLocation":"",
-        "organizationalTag":"",
-        "manufacturer":"",
-        "manufacturerPart":"",
-        "description":"",
-        "implementationMonth":"",
-        "implementationYear":"",
-        "maintenanceNotes":"" }
-    ]
+    {"assetID":"",
+    "assetLocation":"",
+    "organizationalTag":"",
+    "manufacturer":"",
+    "manufacturerPart":"",
+    "description":"",
+    "implementationMonth":"",
+    "implementationYear":"",
+    "maintenanceNotes":"" }
 }
